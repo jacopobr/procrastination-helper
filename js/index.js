@@ -1,4 +1,4 @@
-function spinChoice(){
+function giveSuggestion(){
     animation_time = 4;
     n_items = 5;
     i = 0;
