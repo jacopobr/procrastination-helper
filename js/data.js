@@ -69,7 +69,9 @@ const suggestions = [
         }  
     },
     {
-        "description":"Instagram is full of meme, go watch them!",
-        "it":"Instagram è pieno di meme, vedine qualcuno"
+        "description":{
+            "eng": "Instagram is full of meme, go watch them!",
+            "it":"Instagram è pieno di meme, vedine qualcuno"
+        }
     }  
 ]
