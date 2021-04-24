@@ -73,5 +73,59 @@ const suggestions = [
             "eng": "Instagram is full of meme, go watch them!",
             "it":"Instagram è pieno di meme, vedine qualcuno"
         }
-    }  
+    },
+    {
+        "description":{
+            "eng": "Open a book and hopelessly stare at it",
+            "it":"Apri un libro e fissa le parole"
+        }
+    },
+    {
+        "description":{
+            "eng": "Write a to-do list and do nothing on it",
+            "it":"Scrivi una lista di cose da fare e non fare alcuna cosa"
+        }
+    },
+    {
+        "description":{
+            "eng": "Open Netflix and spend hours choosing what to watch",
+            "it":"Apri Netflix e spreca ore a scegliere cosa guardare"
+        }
+    },
+    {
+        "description":{
+            "eng": "Keep procrastinating by watching videos on how to avoid procrastination",
+            "it":"Continua a procrastinare guardando video su come non procrastinare"
+        }
+    },
+    {
+        "description":{
+            "eng": "Declutter your messy room",
+            "it":"Sistema la tua stanza"
+        }
+    },
+    {
+        "description":{
+            "eng": "Open Instagram, get bored, close it, get bored, open Instagram again",
+            "it":"Apri Instagram, chiudilo perché ti annoi, riaprilo perché ti annoi"
+        }
+    },
+    {
+        "description":{
+            "eng": "Shop for new clothes online and then remember you're broke",
+            "it":"Cerca nuovi vestiti da comprare online ma non comprarli perché non hai soldi"
+        }
+    },
+    {
+        "description":{
+            "eng": "Take a nap",
+            "it":"Fai un riposino"
+        }
+    },
+    {
+        "description":{
+            "eng": "Meditate",
+            "it":"Medita"
+        }
+    }
 ]
