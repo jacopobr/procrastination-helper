@@ -14,11 +14,11 @@ Simple web app used to give you some suggestion on how to spend your time while 
 Is it useful? ABSOLUTELY NOT.<br>
 The app itself is the result of a procrastination session.
 
-## Why a fly as logo?
+## Why is there a fly as logo?
 I personally desing the logo during another procrastination session. The choice of a fly is due to the Italian way of saying 'Guardare le mosche che volano', i.e. 'Look at the flies flying'. That is an action the only pro-level-procrastinator can do, since they only need their surroundings to waste time. It's bad, I know. 
 
 ## Usage
-Just visit <https://www.procrastination-helper.com> and push the button! If you are a good procrastinator, you should push the button until you discover all the possible suggestion!
+Just visit <https://www.procrastination-helper.com> and push the button! If you are a good procrastinator, you should push the button until you discover all the possible suggestions!
 
 ## How to contribute
 If you want to contribute, you probably procrastinate more than me.
