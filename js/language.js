@@ -1,7 +1,6 @@
 /*Dictionaries for italian and English translation*/
 
 var lang = navigator.language || navigator.userLanguage;
-alert(lang);
 const translation = {
     "it": {
 
